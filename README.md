@@ -1,4 +1,3 @@
-    # ⚡ SPECTRUM - Windows Endpoint Control System
 
 ```
 ███████╗██████╗ ███████╗ ██████╗████████╗██████╗ ██╗   ██╗███╗   ███╗
@@ -242,16 +241,21 @@ Modify in `winpc_control_v2.py` line ~60
 
 ---
 
-## 📝 License
-
-See [LICENSE](LICENSE) file in this directory.
+## License
+All rights reserved. This repository is shared for viewing only; no license is granted for reuse, modification, or redistribution.
 
 ---
 
-## 👨‍💻 Created By
+# 👨‍💻 Developer
 
-**Demo || Developer**  
-🔗 Instagram: [@ahmed_hussain006](https://instagram.com/ahmed_hussain006)
+**AHMED HUSSAIN**
+
+                                                               **Demo || Developer**  
+ 
+
+                                            Red Hat Hacker • Full Stack Developer • Security Researcher
+
+                                       *"Advanced mobile security research tools for authorized professionals"*
 
 *"Empowering ethical security professionals with advanced endpoint management tools"*
 
