@@ -18,7 +18,12 @@ SPECTRUM is a professional Windows endpoint control system designed for remote P
 **Platform**: Windows 10/11  
 
 ---
+## 📸 Preview
 
+
+<img src="assets/spectrum.png" width="900">
+
+---
 ## 🎯 Features
 
 ### Core Capabilities
